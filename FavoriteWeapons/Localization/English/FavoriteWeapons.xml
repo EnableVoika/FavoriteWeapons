@@ -1,5 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <contentList>
   <content contentuid="h4ca7ee16g3384g4b4fgbd58ge600aae5be31" version="1">Favorite Weapons</content>
-  <content contentuid="h7cdd4792g1704g4ef0g82ebg963abe486b5a" version="1">Your weapon in Main hand grows with you and grants bonus damage &lt;b&gt;&lt;LSTag&gt;(1d4+your LVL)&lt;/LSTag&gt;&lt;/b&gt; to &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Weapon Attacks, Cantrips, Spells.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+2 CON, +2 Weapon and Spells &lt;b&gt;&lt;LSTag Tooltip="test"&gt;Accuracy.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+2 Spell Slots &lt;b&gt;&lt;LSTag Tooltip="test"&gt;(I,II,III).&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 Spell Slots &lt;b&gt;&lt;LSTag Tooltip="test"&gt;(IV,V,VI).&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="h7cdd4792g1704g4ef0g82ebg963abe486b5a" version="1">Your weapon in Main hand grows with you and grants bonus damage &lt;b&gt;&lt;LSTag&gt;(1d4+your LVL)&lt;/LSTag&gt;&lt;/b&gt; to &lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;Weapon Attacks, Cantrips, Spells.&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+2 CON, +2 Weapon and Spells &lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;Accuracy.&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="h8cd0878agc5e3g4911g84c3g7a4891f3ea1d" version="1">Favorite Weapons 2</content>
+  <content contentuid="h5e58eab9gf1c9g4ba9g8151g3598549fa85d" version="1">&lt;br&gt;+2 Spell Slots &lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;(I,II,III).&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;+1 Spell Slots &lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;(IV,V,VI).&lt;/LSTag&gt;&lt;/b&gt;</content>
+  <content contentuid="h35f25b73g5904g4351g8cbdg387053f5d100" version="1">武器增益</content>
+  <content contentuid="h5ab5fd1fg357eg4b49g8693geff6e02bf472" version="1">&lt;b&gt;&lt;LSTag&gt;(1d4+当前等级)&lt;/LSTag&gt;&lt;/b&gt;调整值追加到&lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;武器、戏法、法术伤害上骰。&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;体质+2, 武器和法术&lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;攻击骰&lt;/LSTag&gt;&lt;/b&gt;结果+2。</content>
+  <content contentuid="h2c747376g9ceeg4fb7g9d7fgb2875b366bcd" version="1">武器增益2</content>
+  <content contentuid="hfbad72b8gb35ag4f47g8b97gbfd011dd465a" version="1">&lt;br&gt;各加2个&lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;1、2、3环法术槽。&lt;/LSTag&gt;&lt;/b&gt;&lt;br&gt;各加1个&lt;b&gt;&lt;LSTag Tooltip=&quot;test&quot;&gt;4、5、6环法术槽&lt;/LSTag&gt;&lt;/b&gt;</content>
 </contentList>
